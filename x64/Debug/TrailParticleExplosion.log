@@ -1,0 +1,13 @@
+﻿D:\Software\Microsoft Visual Studio\2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SDLTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Particle.cpp
+  Screen.cpp
+  Source.cpp
+D:\Document\Github Projects\ParticleExplosion\Source.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Document\Github Projects\ParticleExplosion\Source.cpp(32,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Document\Github Projects\ParticleExplosion\Source.cpp(33,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Document\Github Projects\ParticleExplosion\Source.cpp(34,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Document\Github Projects\ParticleExplosion\Source.cpp(40,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Document\Github Projects\ParticleExplosion\Source.cpp(41,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Swarm.cpp
+  Generating Code...
+  TrailParticleExplosion.vcxproj -> D:\Document\Github Projects\ParticleExplosion\x64\Debug\TrailParticleExplosion.exe

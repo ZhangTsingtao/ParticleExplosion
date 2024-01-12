@@ -1,0 +1,2 @@
+D:\Document\Projects\PureCodes\BasicC++Learning\TrailParticleExplosion\x64\Debug\TrailParticleExplosion.exe
+D:\Document\Github Projects\ParticleExplosion\x64\Debug\TrailParticleExplosion.exe
